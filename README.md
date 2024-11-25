@@ -4,7 +4,8 @@
 - 📈 Passionate about data visualization and analytics.
 - 🌍 From Salem.
 - 🎯 Goals: Become a data Analyst.
-## [My Resume](https://github.com/ragul-r1852/My-Reasume/blob/main/Ragul%20R%20CV.pdf)
+## [My Resume](https://github.com/ragul-r1852/My-Reasume/blob/main/Ragul%20R%20CV.pdf) ![image](https://github.com/user-attachments/assets/df360edb-968e-4847-9c68-8fc7b847d57b)
+
 
 ## 🛠️ Skills
 - **Data Analysis Tools**: Excel, Power BI, Python, SQL
