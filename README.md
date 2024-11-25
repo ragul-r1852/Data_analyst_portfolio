@@ -1,4 +1,4 @@
-# Hi, I'm [Ragul.R] 👋
+# Hi, I'm Ragul.R 👋
 ## 🌟 About Me
 - Aspiring Data Analyst skilled in **Excel, Power BI, Python, and SQL**.
 - 📈 Passionate about data visualization and analytics.
@@ -16,5 +16,5 @@
    - Data cleaning, pivot tables, and insights.
 
 ## 📫 Contact
-- [LinkedIn Profile](your-linkedin-profile)
+- [LinkedIn Profile](www.linkedin.com/in/r-ragul-d52y07)
 - Email: raguld1852@gmail.com
