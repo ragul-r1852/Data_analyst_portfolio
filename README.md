@@ -2,8 +2,8 @@
 ## 🌟 About Me
 - Aspiring Data Analyst skilled in **Excel, Power BI, Python, and SQL**.
 - 📈 Passionate about data visualization and analytics.
-- 🌍 From [Salem].
-- 🎯 Goals: ['To become a data Analyst'].
+- 🌍 From Salem.
+- 🎯 Goals: Become a data Analyst.
 
 ## 🛠️ Skills
 - **Data Analysis Tools**: Excel, Power BI, Python, SQL
@@ -16,5 +16,5 @@
    - Data cleaning, pivot tables, and insights.
 
 ## 📫 Contact
-- [LinkedIn Profile](www.linkedin.com/in/r-ragul-d52y07)
+- [LinkedIn Profile](https://www.linkedin.com/in/r-ragul-d52y07/)
 - Email: raguld1852@gmail.com
