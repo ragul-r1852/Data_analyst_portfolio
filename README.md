@@ -11,7 +11,7 @@
 - **Key Strengths**: Data Cleaning, Visualization, and Modeling  
 
 ## 📂 Featured Projects
-1. **[Investment Analysis (Power BI)](link-to-repo)**  
+1. **[Investment Analysis (Power BI)](https://github.com/ragul-r1852/Stock-Market-Investment-Analysis/blob/18ea13541134c127561f332a1e5e4add955c8f54/README.md)**  
    - Visualized gender-based investment patterns.  
 2. **[T20 World Cup (Excel)](link-to-repo)**  
    - Data cleaning, pivot tables, and insights.
